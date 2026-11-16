@@ -107,3 +107,7 @@ footer {
     gap: 8px;
   }
 }
+.feature-header {
+  background-color: lavender;
+  border-radius: 12px;
+}
